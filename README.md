@@ -1,2 +1,2 @@
 # learnmath
-Blog básico creado para practicar HTML Y CSS.
+Blog básico creado para practicar HTML y CSS.
